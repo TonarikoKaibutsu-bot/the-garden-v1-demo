@@ -1,0 +1,15 @@
+THE GARDEN - V1 DEMO
+
+To open it, keep this folder together and double-click index.html.
+It runs locally in a browser. No account, installation, or internet connection is needed.
+
+This copy starts with fictional Threads, generic food and movement ideas,
+an unchecked Monthly Close list, and one fictional Workroom prompt.
+Planner events, job opportunities, current work, session history, grocery lists,
+and personal notes start empty.
+
+Anything someone adds is saved by their browser on their own computer.
+The Garden Tools page can export or import that browser's data.
+The demo uses separate browser storage from the original Garden on this computer.
+
+To share it, send the whole The-Garden-V1-Demo.zip file.
